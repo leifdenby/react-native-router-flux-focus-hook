@@ -1,0 +1,22 @@
+{
+  "name": "react-native-router-flux-focus-hook",
+  "version": "0.0.1",
+  "description": "Allow for updating component state on navigation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leifdenby/react-native-router-flux-focus-hook.git"
+  },
+  "author": "Leif Denby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leifdenby/react-native-router-flux-focus-hook/issues"
+  },
+  "homepage": "https://github.com/leifdenby/react-native-router-flux-focus-hook#readme",
+  "dependencies": {
+    "react-native-router-flux": "^3.37.0"
+  }
+}
